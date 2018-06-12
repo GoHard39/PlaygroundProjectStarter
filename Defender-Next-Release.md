@@ -1,1 +1,2 @@
-- [ ] Add new game button.
+- [X] Add new game button.
+- [ ] Stop asteroids when game ends.
